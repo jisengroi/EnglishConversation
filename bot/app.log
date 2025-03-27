@@ -1,0 +1,5 @@
+2025-03-07 16:44:58,629 - DEBUG - Using proactor: IocpProactor
+2025-03-07 16:44:58,979 - INFO - Start polling
+2025-03-07 16:44:59,985 - INFO - Run polling for bot @menfesstestbot id=7523796666 - 'menfesstest'
+2025-03-07 16:45:00,521 - INFO - Polling stopped
+2025-03-07 16:45:00,777 - INFO - Polling stopped for bot @menfesstestbot id=7523796666 - 'menfesstest'
